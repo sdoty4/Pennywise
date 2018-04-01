@@ -1,0 +1,12 @@
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\bin\Debug\PennySplit.exe.config
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\bin\Debug\PennySplit.exe
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\bin\Debug\PennySplit.pdb
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\bin\Debug\PennySplit.xml
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\obj\Debug\PennySplit.vbprojResolveAssemblyReference.cache
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\obj\Debug\PennySplit.Form1.resources
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\obj\Debug\PennySplit.Resources.resources
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\obj\Debug\PennySplit.vbproj.GenerateResource.Cache
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\obj\Debug\PennySplit.vbproj.CoreCompileInputs.cache
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\obj\Debug\PennySplit.exe
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\obj\Debug\PennySplit.xml
+C:\Users\aaron.doty\Google Drive\VSProjects\PennyID\PennySplit\PennySplit\obj\Debug\PennySplit.pdb
