@@ -23,6 +23,15 @@ RotateUp3: 70% of 100 rotated correctly
 RotateUp4: 74% of 100 rotated correctly
 RotateUp5: 82% of 100 rotated correctly
 
+
+Potential improvements to get better results....
+
+- a higher quality camera to take the images;
+- better and more consistant lighting of the photography area;
+- build a routine that centeres the penny in the image;
+- identifying other areas on the penny to calculate brightness differences;
+- the penny was rotated 2 degrees for every calculation. Moving only 1 degree could give a more actuate rotation;
+
 -------------------------------------------------------------------
 
 PennyIdentify is an application that displays a penny and allows the user to enter the year.
