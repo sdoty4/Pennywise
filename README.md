@@ -17,18 +17,18 @@ RotateUp5 methodology: This is the same as RotateUp4 except that three stips of 
 RESULTS...
 
 Stats of various rotation attempts on 100 pennies of sheet 1:
-RotateUp1: 54% of 100 rotated correctly
-RotateUp2: 21% of 100 rotated correctly
-RotateUp3: 70% of 100 rotated correctly
-RotateUp4: 74% of 100 rotated correctly
-RotateUp5: 82% of 100 rotated correctly
+- RotateUp1: 54% of 100 rotated correctly
+- RotateUp2: 21% of 100 rotated correctly
+- RotateUp3: 70% of 100 rotated correctly
+- RotateUp4: 74% of 100 rotated correctly
+- RotateUp5: 82% of 100 rotated correctly
 
 
 Potential improvements to get better results....
 
 - a higher quality camera to take the images;
 - better and more consistant lighting of the photography area;
-- build a routine that centeres the penny in the image;
+- build a routine that centers the penny in the image;
 - identifying other areas on the penny to calculate brightness differences;
 - the penny was rotated 2 degrees for every calculation. Moving only 1 degree could give a more actuate rotation;
 
