@@ -2,6 +2,7 @@
 
 PennySplit takes one image of 100 pennies and splits it into 100 images of one penny.
 
+-- TIME ESTIMATES --
 
 Time to rack, edit, cut, normalize, split, grayscale, and rotate the images...
 
@@ -27,6 +28,7 @@ Based on these numbers, 10,000 pennies would take slightly less that 13 hours.
 The amount of time would decrease if multiple people assisted in identify the years.
 
 
+-- ROTATION METHODOLGY --
 
 Methods of determining if a penny is rotated correctly...
 
@@ -40,7 +42,7 @@ RotateUp4 methodology: On both sides of Lincoln's head is an area that should no
 
 RotateUp5 methodology: This is the same as RotateUp4 except that three stips of pixels are used. This is done because the penny may not be centered exactly in the center of the image. The theory is that multiple stips of pixels will catch the variance in the location of the penny in the image.
 
-RESULTS...
+-- ROTATION RESULTS --
 
 Stats of various rotation attempts on 100 pennies of sheet 1:
 - RotateUp1: 54% of 100 rotated correctly
