@@ -2,6 +2,32 @@
 
 PennySplit takes one image of 100 pennies and splits it into 100 images of one penny.
 
+
+Time to rack, edit, cut, normalize, split, grayscale, and rotate the images...
+
+- Time to rack 100 pennies in a 10x10 grid averages 2 minutes 5 seconds;
+- Time to position rack and take the pictures averages 30 seconds;
+- Time to edit/cut/normalize the image in order to run the split function averages 1 minute 35 seconds;
+- Time to run the split/grayscale/rotate function averages 1 minute 30 seconds;
+
+125 + 30 + 95 + 90 = 340   or 5 minutes 40 seconds for each 100 pennies.
+
+Added to this must be the time it take to identify the year on each penny.
+
+The PennyIdentify app will display a penny on the computer or browser and a person
+will read the year into the microphone. Voice recognition will associate the year 
+of the penny to the penny file.
+
+Once it app is written it is estimated that each penny would take approximately 2 seconds to read the year.
+
+So adding 120 seconds to label 100 pennies added to the 340 prep time,
+a total time per 100 pennies approximately 460 seconds or 7 minutes 40 seconds.
+
+Based on these numbers, 10,000 pennies would take slightly less that 13 hours.
+The amount of time would decrease if multiple people assisted in identify the years.
+
+
+
 Methods of determining if a penny is rotated correctly...
 
 RotateUp1 methodology: The area to the right of Lincoln's nose if a smooth with no raised elements. RotateUp1 checked a square area of pixels in this region of the penny for minimum difference in brightness.
